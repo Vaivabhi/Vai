@@ -4,11 +4,7 @@ public class Account {
 	// Instance variable, only available inside this class.
    // New Comment for balance
 	private double balance;
-	// Constructor
-	public Account(double initBalance) {
-		balance = initBalance;
-	}
-
+	
 
 	// A "getter" method that simply returns the balance.
 	public double getBalance() {
